@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MUX36S16IDWR
+D Precision 36V 8-Channel/16-Channel Single Ended CMOS Multiplexer
+K
+F http://www.ti.com/lit/gpn/mux36s16
+$ENDCMP
+#
+#End Doc Library
