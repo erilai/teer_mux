@@ -14407,7 +14407,7 @@
 		)
 		(uuid "0cb63e16-1e41-4bd0-85a1-baf4ecc072a3")
 	)
-	(label "I+"
+	(label "I-"
 		(at 134.62 146.05 180)
 		(effects
 			(font
