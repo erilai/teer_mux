@@ -14267,7 +14267,7 @@
 		)
 		(uuid "ffc2f32b-bd20-4863-933f-a8f3f7f4cf6f")
 	)
-	(label "SW1_EN"
+	(label "SW_EN"
 		(at 138.43 87.63 180)
 		(effects
 			(font
@@ -15777,7 +15777,7 @@
 		)
 		(uuid "68c353a5-cda3-46c9-93bc-541039ada6d3")
 	)
-	(label "shorted_drains"
+	(label "shorted drains"
 		(at 177.8 148.59 0)
 		(effects
 			(font
@@ -15967,7 +15967,7 @@
 		)
 		(uuid "78a695ff-9091-4fee-838d-7ac711433911")
 	)
-	(label "SW1"
+	(label "SW"
 		(at 102.87 87.63 0)
 		(effects
 			(font
@@ -17877,7 +17877,7 @@
 		)
 		(uuid "e9aec7ee-ccbb-4195-841f-fe7bcb995918")
 	)
-	(label "SW1_EN"
+	(label "SW_EN"
 		(at 177.8 151.13 0)
 		(effects
 			(font
@@ -26536,7 +26536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:SMDIP-28_W15.24mm"
+		(property "Footprint" "Package_DIP:SMDIP-24_W15.24mm"
 			(at 96.52 36.83 0)
 			(hide yes)
 			(show_name no)
