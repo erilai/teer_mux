@@ -569,7 +569,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Fab Outputs/",
       "specctra_dsn": "",
       "vrml": ""
     },
