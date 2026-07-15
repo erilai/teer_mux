@@ -62,7 +62,7 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.3,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.2,
           "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|102135399|123100000|8773d200-5e7a-47dc-8a17-81fca6dd6aa9|63826ae2-a277-4f88-a0a8-e7dc65bc6926",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

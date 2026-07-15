@@ -6,4 +6,5 @@
 	(lib (name "Pololu_Power") (type "KiCad") (uri "${KIPRJMOD}/Pololu_Power.kicad_sym") (options "") (descr ""))
 	(lib (name "Power_Module_Custom") (type "KiCad") (uri "${KIPRJMOD}/Power_Module_Custom.kicad_sym") (options "") (descr ""))
 	(lib (name "855-22-016") (type "KiCad") (uri "${KIPRJMOD}/855-22-016.kicad_sym") (options "") (descr ""))
+	(lib (name "2454985-2") (type "KiCad") (uri "${KIPRJMOD}/2454985-2/2454985-2.kicad_sym") (options "") (descr ""))
 )

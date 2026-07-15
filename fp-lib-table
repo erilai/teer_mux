@@ -7,4 +7,5 @@
 	(lib (name "Connector_Triaxial_Custom") (type "KiCad") (uri "${KIPRJMOD}/Connector_Triaxial_Custom.pretty") (options "") (descr ""))
 	(lib (name "Pololu_Power") (type "KiCad") (uri "${KIPRJMOD}/Pololu_Power.pretty") (options "") (descr ""))
 	(lib (name "mux_motherboard") (type "KiCad") (uri "${KIPRJMOD}/mux_motherboard.pretty") (options "") (descr ""))
+	(lib (name "2454985-2") (type "KiCad") (uri "${KIPRJMOD}/2454985-2") (options "") (descr ""))
 )
