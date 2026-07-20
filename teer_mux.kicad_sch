@@ -20028,7 +20028,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_Triaxial"
+		(property "Value" "V-"
 			(at 75.2119 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22935,7 +22935,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_Triaxial"
+		(property "Value" "V+"
 			(at 72.6719 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29900,7 +29900,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_Triaxial"
+		(property "Value" "I-"
 			(at 20.6019 163.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31557,7 +31557,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_Triaxial"
+		(property "Value" "I+"
 			(at 20.6019 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
