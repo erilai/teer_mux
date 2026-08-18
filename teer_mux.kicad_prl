@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 10,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -18,16 +18,16 @@
     "prototype_zone_fills": false,
     "selection_filter": {
       "dimensions": false,
-      "footprints": true,
+      "footprints": false,
       "graphics": true,
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
-      "pads": true,
-      "text": true,
-      "tracks": true,
-      "vias": true,
-      "zones": true
+      "pads": false,
+      "text": false,
+      "tracks": false,
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -44,13 +44,15 @@
       "drawing_sheet",
       "bitmaps",
       "pads",
+      "zones",
+      "drc_warnings",
       "drc_exclusions",
       "conflict_shadows",
       "shapes",
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_fffdffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -99,12 +101,12 @@
     "col_widths": [
       162,
       147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
+      164,
+      132,
+      142,
+      166,
+      144,
+      139,
       91,
       91,
       91,
